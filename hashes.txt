@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kolporajjo
+
+This log tracks the cryptographic history and versioning for the song **Kolporajjo** (kolporajjo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T02:09:22.987424 | `v1` | `28e0faa200552081a585d63be58f94ecc41543d971d58718aea0315e313ffd33` | `5875c37dd4719fdb0fa6457e4e5943eff76f5bfc2589c45ac0473e807c10943f` | `2026-05-11_kolporajjo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
